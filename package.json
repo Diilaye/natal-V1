@@ -1,7 +1,7 @@
 {
   "name": "nataal",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -27,8 +27,8 @@
     "js-cookie": "^3.0.5",
     "lodash": "^4.17.21",
     "next": "15.1.6",
-    "next-auth": "^4.24.11",
     "react": "^19.0.0",
+    "react-countdown": "^2.3.6",
     "react-dom": "^19.0.0",
     "react-feather": "^2.0.10",
     "react-hook-form": "^7.54.2",
@@ -39,8 +39,7 @@
     "reactstrap": "^9.2.3",
     "simplebar-react": "^3.3.0",
     "styled-components": "^6.1.14",
-    "yup": "^1.6.1",
-    "react-countdown": "^2.3.6"
+    "yup": "^1.6.1"
   },
   "devDependencies": {
     "@types/node": "^22",
